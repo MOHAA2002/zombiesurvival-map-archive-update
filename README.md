@@ -14,7 +14,7 @@
 - [Garry’s Mod 10 Zombie Survival FacePunch Studios Thread Crawl (2007 / Page 1)](https://web.archive.org/web/20070612144950/http://forums.facepunchstudios.com/showthread.php?t=305020)
 - [Garry’s Mod 10 Zombie Survival FacePunch Studios Thread Crawls (2007 / Pages 1-20)](https://web.archive.org/web/20100103144804/http://www.facepunch.com/showthread.php?t=305020)
 - [Garry’s Mod 10 Zombie Survival FacePunch Studios Thread Crawls (2007-2008 / Pages 33-48)](https://web.archive.org/web/20071224093439/http://forums.facepunchstudios.com/showthread.php?t=305020&page=33)
-- [NoXiousNet JetBoom Interview (2011)](https://web.archive.org/web/20120111095323/http://www.gmodinformant.com/2011/12/26/noxiousnet) *BONUS*
+- [NoXiousNet JetBoom Interview (2011)](https://web.archive.org/web/20120111095323/http://www.gmodinformant.com/2011/12/26/noxiousnet) BONUS
 - [Mr. Green Gaming FastDL](https://fastdl.mrgreengaming.com/gmodZSRE/maps/)
 - [Mr. Green Gaming Forums Crawl (2007-2008)](https://web.archive.org/web/20081019143100/http://forum.mr-green.nl/index.php?showforum=144)
 - [Mr. Green Gaming Forums](https://forums.mrgreengaming.com/forum/13-zombie-survival/page/27/)
