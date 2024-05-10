@@ -1,0 +1,25 @@
+FROM THE README
+
+map zs_zincoshine
+Made by Mark Panelo, aka Mk_97
+V2 Update at 4/1/07 (5:22 PM PST)
+V1 Released at 3/26/07 5:45 PM PST as of this readme's documentation
+
+*V2 UPDATE* - new building, little more detail, land expansion, some soundscaping fixed. Cubemaps added. Still can't figure out gmod_player_start problem. Sorry, no full HDR Compile.
+
+The area has been sealed off due to obvious reasons. *coughZombiescough* Barricades are set up on one side of the road while the other is improbably brick walled.
+
+Local news in the map reports of light chances of Headcrab Canister bombardment. If you live near this area, bring an umbrella. A big one.
+
+-
+
+V1 - http://garrysmod.org/downloads/?a=view&id=7080
+
+I made this map to challenge myself to see if I can make an open ended, no-barricade kind of Zombie Survival level instead of the usual "barricade yourself in" gameplay. It's kind of done for now (yeah right), but as you can see it's just one square "room" and not a lot of detail added (V2 has more detail).
+
+I don't want to be a noob, but I also need to figure out how to make the player spawn at random gmod_player_start points rather than just one. Any tips would be appreciated.
+
+BONUS: The name zincoshine comes from a mixture of powdered zinc and sulfur, which you mix with pure alcohol and dry in layers in a tube. Less brownie points this time to figure out what book I got the name from, and why.
+
+Mk_97
+MARKIEV101 at GMAIL dot Com

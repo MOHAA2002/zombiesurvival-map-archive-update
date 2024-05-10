@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"cnsc\cnsc_darkglass"
+	"$surfaceprop" "glass"
+        "$translucent" 1
+        "$nocull" 1
+
+}

@@ -1,0 +1,8 @@
+"MonitorScreen"
+{
+	"$basetexture" "nVidia/destkop"
+	"$surfaceprop" "Glass"
+	"$surfaceprop2" "Computer"
+	"$translucent" 1
+	"$phong" 1
+}

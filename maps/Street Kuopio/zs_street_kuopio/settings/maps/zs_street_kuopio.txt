@@ -1,0 +1,12 @@
+"Maps"
+{
+	"Zombie Survival"
+	{
+		"zs_street_kuopio"
+		{
+			"Credits"	"nVidia"
+			"Material"	"maps/zs_street_kuopio"	
+		}
+	}
+	
+}

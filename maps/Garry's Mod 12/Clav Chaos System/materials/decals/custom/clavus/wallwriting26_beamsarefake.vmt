@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/custom/clavus/wallwriting26_beamsarefake"
+	"$decal" 1
+	"$decalscale" 0.25
+	"$translucent" 1
+}

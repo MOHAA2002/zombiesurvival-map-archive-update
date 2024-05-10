@@ -1,0 +1,27 @@
+Facepunch Thread:
+http://forums.facepunchstudios.com/showthread.php?t=631971
+
+Changes from beta1 to version1:
+
+-Removed exploitable area.
+-Expanded outdoor area.
+-Lightning redone to be more accurate over a larger area. Venturing out into the wilderness will most likely get you killed. Should ignore team3 players (zombies) unless they just happen to be nearby when it randomly strikes.
+-Moved the zombie spawns farther back.
+-Expanded basement.
+-Added another entrance into the basement (underground).
+-Renovated barn/garage, especially the slide-up doors.
+-Removed the side garage entrance.
+-Added another attic entrance.
+-Made small windows easier to go through.
+-Reinforced ground floor barricades, apparently you jump a stitch higher from the last update being able to reach the ground floor windows.
+-Added some various details and props.
+-Added some melee weapon pickups.
+-Added some ammo crates (SMG, Shotgun outside / crossbow inside) Imposed 20 sec delay after each use.
+-Sprinkled some NPC's in.
+-Hp charger breaks after 5 uses, shower can heal ~20hp with a 4min cool down.
+-Tweaked lighting/reflections.
+-Tweaked hint brushes. (Area portal windows were more expensive then useful)
+-Tweaked prop visibility distances.
+-Compiled with the Ep2 engine.
+-Packed Ep2 content but not CS:S content due to size.
+-Included a map icon.

@@ -1,0 +1,6 @@
+this is a map for zombie survival.
+
+the humans spawn in the middle of the pyramid and the zombie on the bottom.
+there are also some secret room inside the pyramid.
+
+extract the zip to your maps folder

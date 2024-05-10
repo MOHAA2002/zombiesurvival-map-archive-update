@@ -1,0 +1,3 @@
+My first real map made with Hammer, the map development tool for the Source engine. This map is meant to be used in the Zombie Survival gamemode. Features a  not-too-large open area where players have limited visibility due to fog and large pieces of scrap metal (mainly trains :). A few 'buildings' (more bunkers) are in the area, with multiple entrances to prevent players from keeping their guns fixed at one entrance.
+
+EDIT: Made a v2. First one was horribly optimized, this one's a lot better.

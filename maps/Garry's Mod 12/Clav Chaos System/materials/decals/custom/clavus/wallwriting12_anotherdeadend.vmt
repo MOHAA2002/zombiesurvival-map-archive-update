@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/custom/clavus/wallwriting12_anotherdeadend"
+	"$decal" 1
+	"$decalscale" 0.25
+	"$translucent" 1
+}

@@ -1,0 +1,18 @@
+VERSION 2, FIXED SOME THINGS SUCH AS HDR LIGHTING, DOOR HIT SOUND, BUTTONS AND MORE.
+
+Features:
+
+Massive use of NODRAW
+Massive use of func_detail
+Used prop_physics_multiplayer instead of prop_physics
+3D Skybox
+HDR lighting
+No errors or warnings during compile process
+Custom car alarm sound
+Six rooms with bathroom
+Sometimes the light turns off and the red emergency lights turns on
+
+FRAMERATE INFORMATION:
+
+I've tested the framerate of this map with an ATI Radeon HD 3870 and maximum Garry's Mod graphic detail.
+The result is average 80 fps; please keep note that with another common Zombie Survival map (smaller and less detailed) my framerate is about 60-70.

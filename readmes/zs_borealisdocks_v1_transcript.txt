@@ -1,0 +1,18 @@
+This is my second zs map!
+I've started workin on it when i finished zs_longway_v2
+( http://www.garrysmod.org/downloads/?a=view&id=35284 )!
+This time I used the Half Life 2 Episode 2 Engine so you need the game to see some textures or/and models!
+
+The fps is ok too so zs will be fun on it, really!
+
+Oh and of course thanks to Repoman who gave me the idea to make a map with a lighthouse!
+---------------------------------------------------
+:ATTENTION:ATTENTION:ATTENTION:ATTENTION:ATTENTION:
+---------------------------------------------------
+1. This map is NOT Optimized so if you dont have a good computer your fps may drop! Use of this map on your own risk!
+
+2.The work on Borealisdocks version2 has been canceled!
+Instead of that i made zs_viruslabs ( http://www.garrysmod.org/downloads/?a=view&id=62507)
+---------------------------------------------------
+Yours,
+-=ZOH=- Z€r0n

@@ -1,0 +1,54 @@
+FINAL VERSION!!!
+
+
+I re-uploaded the final version, just to keep people who are a little curious out of my map...(You'll understand what I'm talking about if you are one of them)
+
+Extract the files to your garrysmod/garrysmod/maps folder.
+
+Mines theme map intended for zombie survival usage.
+
+Final Version Changelog:
+-Removed an invisible walkway in the large chamber
+-Exploding wall removed
+-Small room moved to a different location of the map
+-Added an elevator shaft with a working elevator
+-Changed all textures
+-Added more scaffolding
+-Added a small room above the scaffolding
+-Balanced map
+
+HOTFIX Changelog(6/19/08 7:00PM):
+-Changed ambiance sound and volume
+-Removed possible ways to bypass the correct way onto the wooden ramp
+-Widened ramp to allow easier movement
+-Added fog to optimize performance
+-Changed some brushes to details to optimize performance
+
+Version 3 Changelog:
+-Removed rocks that did not function properly
+-Changed some lighting to enhance atmosphere
+-Added another zombie spawn in upper area to balance map
+-Added ambiance to enhance atmosphere
+-Extended upper tunnel length
+-Lowered some prop weights to provide easier barricading
+-Added a cave event every 3 mins for 18 mins, the cave will now shake and rumble
+
+Version 2 Changelog:
+-Reduced lighting
+-Changed light color
+-Added light sources
+-Added several props
+-Changed crate skins
+-Changed barrel skins
+-Reduced wood wall health
+-Added gravel piles
+-Added small rocks
+-Added healthkits and healthvials
+-Added a deathpit
+-Added an exploding wall
+-Added a "break" room
+-Added more human spawn locations
+-Made deathpit wood planks func_physbox
+-Fixed large chamber light source
+-Fixed several small holes in displacements
+-Human spawns should now spawn correctly

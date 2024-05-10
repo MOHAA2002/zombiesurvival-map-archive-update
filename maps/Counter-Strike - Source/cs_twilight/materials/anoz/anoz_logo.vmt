@@ -1,0 +1,6 @@
+"Lightmappedgeneric"
+{
+	"$baseTexture" "anoz/anoz_logo"
+	"$translucent" 1
+	"$surfaceprop" "default"
+}

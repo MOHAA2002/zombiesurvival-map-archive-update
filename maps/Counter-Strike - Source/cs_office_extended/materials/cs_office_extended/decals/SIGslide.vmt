@@ -1,0 +1,17 @@
+"LightmappedGeneric"
+{
+	"$additive" 1
+	"$basetexture" "cs_office_extended/decals/SIGslide"
+	"$decal" 1
+	"$decalscale" "0.4"
+
+ "Proxies"
+ {
+  "AnimatedTexture"
+  {
+    "animatedTextureVar" "$basetexture"
+    "animatedTextureFrameNumVar" "$frame"
+    "animatedTextureFrameRate" ".1"
+  }
+ }
+}

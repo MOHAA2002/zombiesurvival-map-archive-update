@@ -1,0 +1,3 @@
+First map in a looong while. Features a maze-like setup with lots of dark corridors and sinister hallways. The map is build out of 128x128x128 unit segments (plus some bigger rooms) linked together. The humans will have a hard time staying alive in this one if they don't work together!
+
+EDIT: made a v2. The High Definition Range (HDR) lightning was screwed. Forgot to test on that earlier! So here's the fixed version.

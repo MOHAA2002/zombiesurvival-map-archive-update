@@ -1,0 +1,3 @@
+My 2nd ZS map. Made for garrysmod9, but works fine in the latest garrysmod.
+
+Many exploits fixed such as door exploits. More interior and exterior detail. Has NPC zombie spawns, however NPCs are not recommended for large numbers of players due to lag issues.
