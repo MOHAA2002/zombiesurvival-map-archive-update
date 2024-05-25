@@ -2,7 +2,9 @@
 
 ## Contributors:
 - [Clavus](https://steamcommunity.com/id/clavus)
+- [Tony Dosk Enginooy](https://steamcommunity.com/id/21543)
 - [Xalalau](https://steamcommunity.com/id/xalalau/)
+- [Yushe](https://steamcommunity.com/id/Yushe2)
 
 ## Sources:
 - [17 Buddies](https://www.17buddies.rocks/17b2/)
