@@ -32,7 +32,7 @@
 - maps/* - the maps itself.
 - maps/(Map Name)/* - maps with revisions or preserved in original packaging.
 - maps_vmf/* - sources of the legendary works.
-- modified_gmod13/* - fixed for Garry's Mod 13.
+- port_gmod13/* - fixed maps for Garry's Mod 13.
 - readmes/* - original map descriptions.
 - screenshots/* - ZS images that came with maps.
 
