@@ -2,6 +2,7 @@
 
 ## Contributors:
 - [Clavus](https://steamcommunity.com/id/clavus)
+- [Johnny Moe](https://steamcommunity.com/id/johnny_moe)
 - [Tony Dosk Enginooy](https://steamcommunity.com/id/21543)
 - [Xalalau](https://steamcommunity.com/id/xalalau/)
 - [Yushe](https://steamcommunity.com/id/Yushe2)
@@ -32,7 +33,7 @@
 - maps/* - the maps itself.
 - maps/(Map Name)/* - maps with revisions or preserved in original packaging.
 - maps_vmf/* - sources of the legendary works.
-- port_gmod13/* - fixed maps for Garry's Mod 13.
+- other_2009-/* - work dated after 2008.
 - readmes/* - original map descriptions.
 - screenshots/* - ZS images that came with maps.
 
