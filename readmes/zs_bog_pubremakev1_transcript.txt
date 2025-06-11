@@ -1,0 +1,17 @@
+http://www.uploading.com/files/G89FPDYV/zs...makev1.bsp.html NEW LINK! (optimized one - normal vvis build - yeah..damn vvis leaves )
+
+I am working on the laptop - configuration - Windows Vista, 3gb DDR2 Ram,Intel Core2Duo p8400 at 2.3 ghz, gf 9600m gt ddr3 512 mb.
+
+post-18-1227788758_thumb.jpg
+
+post-18-1227788765_thumb.jpg
+
+Tested map at my highest possible resolution on this monitor (1440x800).
+
+The picture with 35 fps (taken from top, so the pc renders all that it is in the map) - textures, models, shader, shadow - high , vsync disabled ofc.
+
+no hdr or bloom, AA - 16x quantum one ! the highest aa ever, 16x AF.
+
+The picture with 50+ fps , same resolution, 4x AA , rest is the same.
+
+DxLevel used : 9

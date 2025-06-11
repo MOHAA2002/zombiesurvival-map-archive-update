@@ -1,0 +1,47 @@
+http://www.2shared.com/file/4312118/d8585b...bremake_b2.html . Remember , its beta 2! Updated :
+
+- fixed the roof.
+
+- added tower
+
+- added teleport
+
+post-18-1227128395_thumb.jpg
+
+post-18-1227128398_thumb.jpg
+
+post-18-1227128402_thumb.jpg
+
+post-18-1227128406_thumb.jpg
+
+post-18-1227128410_thumb.jpg
+
+post-18-1227128414_thumb.jpg
+
+post-18-1227128420_thumb.jpg
+
+post-18-1227128425_thumb.jpg
+
+To Do : - trigger hurt in the ceiling - roof
+
+- fix the resident evil room (which i give credits to whom made it - prefab :P )
+
+- add teleport to tower.
+
+Check the map i uploaded, test the spawn points, see what you think , and tell me what to fix/add.
+
+Edit : - added trigger hurt on the roof to prevent headcrabbing .
+
+Edit : - added teleport to tower!
+
+- fixed some textures
+
+- added some props, wires.
+
+- added some ambient sound
+
+- fixed re room
+
+- added mounted gun in the tower!! (usable just by humans, low damage (like pistol damage), low rate of fire, limited ammo!)
+
+- added monitors in the basement and on the first floor to see how things are working (zombies etc )

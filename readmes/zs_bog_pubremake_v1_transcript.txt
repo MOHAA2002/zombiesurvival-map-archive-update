@@ -1,0 +1,13 @@
+Update : removed the monitor+cameras . Reason : drop in fps, lag... (shame =( )
+
+- rmved the func_tank (its bugged in gmod!).
+
+Here it is the iPhone 3G ..uhm pardon me..zs_bog_pubremake !
+
+>>> http://www.2shared.com/file/4341432/d62532...bremake_v1.html <<<<
+
+Note#1: yes, i know the map isn't much ... the sky camera doesnt really match the real brush, lightning is wrong in some places, some things just don't seem too mappistic (like so many cars for instance) ..but eh..its for zombie survival not for mapping contest. Anyways, i give credit to the guy that made the Re prefab (the one to secret room) and to the maker of the classical map zs_pub XD.
+
+Plot: The old pub has been a crossroad for years, but since zombies came in .. the building was ravaged. No one survived. Years passed and the building became one with dust. Desperate humans searching for shelter against zombies found the old pub ruins, they dag and found a chamber. They expanded it, and build their first HQ there. Then, they built the new pub, along with watchtowers, traps (for zombs). The new pub was also invaded by zombies, but will the humans stand a chance now? We'll see that on left4green!
+
+Download the v1 and tell me what you think, test it, if admins wanna change something or ask questions , ill answer to them. =P

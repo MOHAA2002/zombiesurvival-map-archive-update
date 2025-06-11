@@ -1,0 +1,15 @@
+Alright i updated the map and here is it.
+
+Changes:
+
+-Fixed some water issues
+
+-Many things changed for better balancing
+
+-Zombies have a second entry to the underground room
+
+-And some other little things
+
+Cheers :)
+
+zs_house_number_23_v2.zip

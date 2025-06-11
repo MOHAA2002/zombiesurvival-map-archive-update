@@ -1,0 +1,7 @@
+http://www.uploading.com/files/LAB9P6P8/zs...ation).bsp.html << Optimized new one - added fade properties to props
+
+Results : on my 9600m - 1440x800 - average fps with 2x aa,4xaf - 85.4
+
+- 1440x800 - average fps with 16 aa, 16x af ~ 30 fps
+
+- 1280x800 - 2xaa,4xaf - 96 + . done with bench_end/start.

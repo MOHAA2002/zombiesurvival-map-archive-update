@@ -1,0 +1,6 @@
+Alright, i've pimped out Oviscity. None of that faggoty radish picking junk and custom textures anymore.
+I've made most houses accessible, but i've made their interiors more limited. There is a lot of ammo on the map, but you have to move around if you wanna find it.
+I'd say this map is almost as easy as hamlet, except there's none of those exploitable ammo boxes that give you eleventy-bake gallons of ammo.
+There is only one health charger - that's right - at the hospital, which i limited to one floor. There are a few healthvials and packs strewn across the city, but they won't work well unless you move around the city a lot. The player zombies spawn all over the city in alleys and dark corners. The PD is accessible, but the prison cells are permanently closed.
+There are like 10 frags on the map, but they're hidden pretty well. Most of them, anyways.
+Hope the map works better than rambocity.

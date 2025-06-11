@@ -1,0 +1,3 @@
+My first real map made with Hammer, meant to be used in the Zombie Survival gamemode by JetBoom. Features a not-too-large open area where players have limited visibility due to fog and large pieces of scrap metal (mainly trains :). A few 'buildings' (more bunkers) are in the area, with multiple entrances to prevent players from keeping their guns fixed at one entrance.
+
+Map created by ClavusElite. See you on the Mr-Green server! (unquestionable one of the most popular ZS servers). 

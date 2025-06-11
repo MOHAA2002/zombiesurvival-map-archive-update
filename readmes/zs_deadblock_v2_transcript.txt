@@ -1,0 +1,26 @@
+Title : zs_deadblock_v2
+Release Date : June 16, 2009
+Build Time : 3 weeks
+Author(s) : Warbasher
+Email Address : pirey5@gmail.com
+Type : Zombie Survival
+Custom Textures : No
+Custom Sounds : No
+Custom Skybox : No
+
+Description
+------------
+This version of deadblock is an update to deadblock_v1, which was small in comparison. You are in a town, medium in size, with zombies all around you. The player zombie spawns are protected by a wall players can't get above (no more spawncamping). The map has 1 health machine, with a few dispersed health kits. I added realistic lighting effects (unlike deadblock_v1), and different colored lights. There is 6 possible cade rooms, each with props inside to help you. I dispersed 3 or 4 hammers across the map. Last but not least, I added player clip around certain parts of the map to prevent exploit issues. This is my 7th map I've made for zs, and hopefully my best so far.
+
+*This map was intended for DeathLegends ZS server*
+
+Installation
+------------
+
+Unzip the files zs_deadblock_v2.bsp:
+Steam\Steamapps\<<your username>>\garrysmod\garrysmod\maps\
+
+Other Notes:
+------------
+
+Please feel free to email me (pirey5@gmail.com) with suggestions and bugs you might find in my maps. 

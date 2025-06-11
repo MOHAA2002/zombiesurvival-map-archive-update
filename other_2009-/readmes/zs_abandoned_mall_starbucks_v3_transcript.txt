@@ -1,0 +1,36 @@
+D3Bot Navmesh: https://pastebin.com/EpgKsHTg
+
+This is an edit of abandoned mall version whatever, modified so that every store is a starbucks. This project started in 2018 and was hosted as a joke map on a handful of zs servers. It's been updated a few times, but never officially released until now.
+
+The joke is that the zombies get faster every wave. If your zs server has any sense of balance— it should play fine.
+
+I challenge you to find a more optimized abandoned mall.
+
+Features
+
+    38 possible sigil locations
+    Large, semi-open mall to explore
+    Unfathomable amount of props available for barricading
+    A lot of caffeine 
+
+
+Requirements
+Counter-Strike: Source - Make sure it's mounted!
+
+Processor: 2 GHz Multi-Core CPU
+Memory: 4 GB RAM
+Graphics: 1GB Dedicated VRAM
+Storage: 90 MB
+
+Additional Notes: Large-population multiplayer servers may require additional resources to maintain high FPS.
+
+Supported Gamemode
+Zombie Survival[github.com]
+Sandbox
+
+Credits
+Extensive amount of map assets - gm_gmall
+
+Designed for Garry's Mod Zombie Survival.
+
+CURRENT RELEASE: Version 3 — Q2 2021 (2018-2021)

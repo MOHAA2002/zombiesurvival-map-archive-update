@@ -1,0 +1,6 @@
+The map was okay in terms of layout, but the brushwork and stuff were kinda lacking.
+I moved the player zombies' spawn to outside, and the humans' spawn inside. The entrance to the asylum is boarded up.
+The computer room is an excellent retreat... There's only 2 entrances to it, and there's a few nice props to barricade the doors with.
+I added a few more ammo spawns and optimized the map (holy crap no func_details?!)
+the npc's spawn in the usual spots.
+NO PICS FOR YOU. 

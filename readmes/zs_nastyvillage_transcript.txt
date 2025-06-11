@@ -1,0 +1,3 @@
+Hey guyz i maked a new map.
+It's basically a combination of zs_thevillage and zs_nastyhouse. The nastyhouse has the basement removed, and there's a wooden path leading from one house to the other. The zombies can break it and disallow the humans from escaping from house to house. I also fixed the door on the lake house.
+For some reason i get a smelled up error when i run this map. Can someone else try to run it?

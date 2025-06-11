@@ -1,47 +1,53 @@
 # Zombie Survival Map Archive: Update
 
 ## Contributors:
-- [Clavus](https://steamcommunity.com/id/clavus)
-- [Johnny Moe](https://steamcommunity.com/id/johnny_moe)
-- [Tony Dosk Enginooy](https://steamcommunity.com/id/21543)
-- [Xalalau](https://steamcommunity.com/id/xalalau/)
-- [Yushe](https://steamcommunity.com/id/Yushe2)
+- [Clavus](https://steamcommunity.com/profiles/76561197970953315)
+- [johnny moe](https://steamcommunity.com/profiles/76561198000324568)
+- [Proximity77](https://steamcommunity.com/profiles/76561197996603431)
+- [Scott](https://steamcommunity.com/profiles/76561198024593456)
+- [Tony Engino Dosky](https://steamcommunity.com/profiles/76561197965985800)
+- [Белый Рыцарь](https://steamcommunity.com/profiles/76561198331898065)
+- [Xalalau](https://steamcommunity.com/profiles/76561198023506701)
+- [Yushe](https://steamcommunity.com/profiles/76561198360846296)
 
-## Sources:
-- [17 Buddies](https://www.17buddies.rocks/17b2/)
-- [ClavusElite’s Website Crawl (2008)](https://web.archive.org/web/20080926132247/http://www.clavusstudios.nl/index.html)
-- [Evolution of Zombie Survival YouTube (2006 - 2008)](https://www.youtube.com/playlist?list=PLNhZJACsuqsA1am_ZEnn91YPY9DdZo6_F)
-- [Free Steam (2012 - 2015)](https://freesteam.net/gmod/addon.php)
-- [GameBanana](https://gamebanana.com/)
-- [Garrysmod.org ZS Tag Crawl (2007-2009)](https://web.archive.org/web/20070502191549/http://www.garrysmod.org/downloads/?tag=zs)
-- [Garry’s Mod 10 Zombie Survival FacePunch Studios Thread Crawl (2007 / Page 1)](https://web.archive.org/web/20070612144950/http://forums.facepunchstudios.com/showthread.php?t=305020)
-- [Garry’s Mod 10 Zombie Survival FacePunch Studios Thread Crawls (2007 / Pages 1-20)](https://web.archive.org/web/20100103144804/http://www.facepunch.com/showthread.php?t=305020)
-- [Garry’s Mod 10 Zombie Survival FacePunch Studios Thread Crawls (2007-2008 / Pages 33-48)](https://web.archive.org/web/20071224093439/http://forums.facepunchstudios.com/showthread.php?t=305020&page=33)
-- [NoXiousNet JetBoom Interview (2011)](https://web.archive.org/web/20120111095323/http://www.gmodinformant.com/2011/12/26/noxiousnet) BONUS
-- [Mr. Green Gaming FastDL](https://fastdl.mrgreengaming.com/gmodZSRE/maps/)
-- [Mr. Green Gaming Forums Crawl (2007-2008)](https://web.archive.org/web/20081019143100/http://forum.mr-green.nl/index.php?showforum=144)
-- [Mr. Green Gaming Forums](https://forums.mrgreengaming.com/forum/13-zombie-survival/page/27/)
-- [NFO Servers](http://hug.site.nfoservers.com/server/maps/)
-- [NoXious Tapatalk](https://www.tapatalk.com/groups/noxiousnetfr/?sid=775b34fb26f3b6a7d050b3598c6d6679)
-- [NoXiousNet FastDL Crawl (2008)](https://web.archive.org/web/20080630010727/http://www.noxiousnet.com/downloadurl/maps/)
-- [NoXiousNet FastDL Crawl (2016)](https://web.archive.org/web/20160731095908/http://heavy.noxiousnet.com/downloadurl/maps/)
-- [Slide 'n' Shine FastDL](https://fastdl.slidenshine.net/gmodZS/maps/)
-
-## Subdirectories
-- /Counter-Strike - Source/* - CS:S maps/content hosted on ZS.
-- /Garry's Mod 12/* - made way after the classic era.
+## Directories/Subdirectories
 - maps/* - the maps itself.
-- maps/(Map Name)/* - maps with revisions or preserved in original packaging.
-- maps_vmf/* - sources of the legendary works.
+- maps/(Map Name)/* - maps with revisions.
+- maps_vmf/* - map source code.
 - other_2009-/* - work dated after 2008.
 - readmes/* - original map descriptions.
-- screenshots/* - ZS images that came with maps.
+- screenshots/* - ZS in-game images.
+- /Counter-Strike - Source/* - CS:S maps hosted on ZS.
+- /Fixed/* - decompiled broken maps.
+- /Modified/* - edited source photos.
+- /Thumbnails/* - full images unarchived.
+- /Unfinished/* - maps considered incomplete.
+
+## Lost Maps/Versions & Map Order Date
+- [Full List Here](https://docs.google.com/spreadsheets/d/11LhY9ruI_zx0tI7_h6aATd_YfDquJHRW/edit?usp=drive_link&ouid=104310120917610697116&rtpof=true&sd=true)
 
 ## FAQ
-- Q: I have an old hard drive with some maps on it-
-- A: Say no more. Just send everything to [Soldier](https://discord.com/users/414261058472116225). I will look through them. Or, if you prefer, pull requests are open.
-- Q: Where are the maps?
-- A: Over [Here](https://github.com/MOHAA2002/zombiesurvival-archive), except they mostly date before 2009.
+- Q: How can I contribute?
+- A: Contact me or open a pull request.
+- Q: Where are the builds?
+- A: Over [Here](https://github.com/MOHAA2002/zombiesurvival-archive).
 
-## Lost Maps/Versions
-- [Full List Here](https://docs.google.com/spreadsheets/d/11LhY9ruI_zx0tI7_h6aATd_YfDquJHRW/edit?usp=sharing&ouid=104310120917610697116&rtpof=true&sd=true)
+## Sources:
+- [17's Buddies](https://www.17buddies.rocks/17b2/)
+- [Big Source Content Archive](https://ar.mevl2.duckdns.org/garrysmod/maps/)
+- [Clavus Studios (2007-2008)](https://web.archive.org/web/20081025140207/http://clavusstudios.nl/)
+- [darkok.xyz - garrysmods.org Archive](http://darkok.xyz/archive/garrysmods/)
+- [FreeSteam - GMOD Downloads (2014-2024)](https://web.archive.org/web/20240915122006/https://freesteam.net/gmod/category.php?catid=1)
+- [GameBanana](https://gamebanana.com/)
+- [Garry's Mod Informant - Community Spotlight – NoXiousNet](https://web.archive.org/web/20120111095323/http://www.gmodinformant.com/2011/12/26/noxiousnet)
+- [garrysmod.org - ZS Tag (2007-2009)](https://web.archive.org/web/20070502191549/http://www.garrysmod.org/downloads/?tag=zs)
+- FacePunch Studios - Zombie Survival [(2009-2010/Pages 1-20)](https://web.archive.org/web/20100103144804/http://www.facepunch.com/showthread.php?t=305020), [(2007-2008/Pages 33-48)](https://web.archive.org/web/20071224093439/http://forums.facepunchstudios.com/showthread.php?t=305020&page=33)
+- [Mr. Green Gaming - FastDL (Unarchived)](https://fastdl.mrgreengaming.com/gmodZSRE/maps/)
+- [Mr. Green Gaming - Site and Server talk (2007-2008)](https://web.archive.org/web/20081019143100/http://forum.mr-green.nl/index.php?showforum=144)
+- [Mr. Green Gaming - Zombie Survival suggestions, ideas, bug reports (2008)](https://web.archive.org/web/20080917203419/http://forum.mr-green.nl/index.php?showtopic=3525)
+- [Mr. Green Gaming - Zombie Survival](https://forums.mrgreengaming.com/forum/13-zombie-survival/page/27/)
+- [NFO Servers - FastDL](http://hug.site.nfoservers.com/server/maps/)
+- NoXiousNet FastDL [(2008)](https://web.archive.org/web/20080630010727/http://www.noxiousnet.com/downloadurl/maps/), [(2016)](https://web.archive.org/web/20160731095908/http://heavy.noxiousnet.com/downloadurl/maps/)
+- NoxiousNet - Forumer [(2007)](https://web.archive.org/web/20070110100152/http:/noxiousnet.1.forumer.com/), [Tapatalk](https://www.tapatalk.com/groups/noxiousnetfr/?sid=775b34fb26f3b6a7d050b3598c6d6679)
+- [Slide 'n' Shine - FastDL](https://fastdl.slidenshine.net/gmodZS/maps/)
+- [YouTube - Evolution of Zombie Survival (2006-2008)](https://www.youtube.com/playlist?list=PLNhZJACsuqsA1am_ZEnn91YPY9DdZo6_F)
